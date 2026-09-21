@@ -1,3 +1,17 @@
+/*
+ * A1_Classes_and_Objects
+ *
+ * In this exercise I practiced the basics of classes and objects
+ * by creating a simple car simulation.
+ *
+ * Each Car object has its own data, such as brand, model, year,
+ * speed and distance, and methods that change its state.
+ *
+ * The main idea here was to understand that an object has its
+ * own state and behavior, and that different objects from the
+ * same class can behave independently.
+ */
+
 package A1_classes_and_objects;
 
 public class Race {
